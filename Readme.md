@@ -1,5 +1,4 @@
-<h1 align="center
-           > ❤ No-Starved Valentine ❤</h1>
+<h1 align="center"> ❤ No-Starved Valentine ❤</h1>
            
 ## 📌 About the project :
 The project aims to provide a food ordering service for your loved ones. It can be used to order food for someone and notify them using Whatsapp and also provide a Tracing service via calling feature.
