@@ -44,9 +44,11 @@ app.post("/send", (req, res) => {
     .create({
       from: whatsapp,
       to: num,
-      body: `Hello ${name}, your order is on its way!
-        Reciept: ${order}
-        Thank you for using our service!
+      body: `Hey ${name}, your order is on its way! 
+      Here's your Reciept: ${order}
+      Paid with lots of love💕
+      Thank you for using our service!💕
+      We wish you a very Happy Valentine Day!💕
       `,
     })
     .then((message) => res.send(`Message ${message.sid}`));
