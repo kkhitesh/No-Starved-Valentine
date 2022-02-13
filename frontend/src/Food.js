@@ -11,7 +11,7 @@ function Food( { img, name}) {
   }
   const [count, setCount] = React.useState(0);
 
-  const increment = () => setCount(count + 1);
+  const increment = () => setCount(count + 1);  
   const decrement = () => {
     if(count > 0) {
       setCount(count - 1);
