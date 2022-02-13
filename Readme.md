@@ -7,10 +7,12 @@ The project aims to provide a food ordering service for your loved ones. It can 
 ## 📌 Screenshots
            
 ### Home Page
-           ![image](https://user-images.githubusercontent.com/61322830/153749943-fe0be00d-b678-46ae-a323-1c58bd7491cf.png)
+
+![image](https://user-images.githubusercontent.com/61322830/153749943-fe0be00d-b678-46ae-a323-1c58bd7491cf.png)
 
 ### Order Page
-           ![image](https://user-images.githubusercontent.com/61322830/153749963-7798f796-9862-418e-83d5-f7b263759e60.png)
+
+![image](https://user-images.githubusercontent.com/61322830/153749963-7798f796-9862-418e-83d5-f7b263759e60.png)
            
 ## 📌 Technologies used
 - ReactJS (Frontend)
