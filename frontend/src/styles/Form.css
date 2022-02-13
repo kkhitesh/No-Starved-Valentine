@@ -1,0 +1,37 @@
+.BG {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    height: 100px;
+    margin: 50px;
+    margin-top: 0px;
+    padding: 5px;
+    background-color: #FE0065;
+    border-radius: 10px;
+    box-shadow: 0 14px 45px rgba(0, 0, 0, 0.22), 0 18px 45px rgba(0, 0, 0, 0.473);
+  }
+  .App {
+    background-color: royalblue;
+    width: 100%;
+  }
+  h2 {
+    color:black;
+    display: inline;
+    font-size: 30px;
+  }
+  input {
+    width: 100%;
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+  }
+Button {
+    height: 20px;
+    width: 50%;
+    padding: 3px;
+    border-radius: 2px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+  }
